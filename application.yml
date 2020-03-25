@@ -1,7 +1,7 @@
 eureka:
   client:
     service-url:
-      defaultZone: http://panda-server:8761/eureka/
+      default-zone: http://panda-server:8761/eureka/
 
 server:
   tomcat:
